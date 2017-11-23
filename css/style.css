@@ -28,13 +28,13 @@ h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 500%;
 	font-weight: 100;
-	color: gray;
+	color: lightgray;
 }
 
 h2 {
 	font-family: 'Baskerville', serif;
 	font-size: 2em;
-	color: gray;
+	color: lightgray;
 }
 
 #copy {
@@ -46,4 +46,8 @@ img {
 	border-style: solid;
 	border-width: thick;
 	border-color: gray;
+}
+
+a:hover {
+	color: gray;
 }
