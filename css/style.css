@@ -48,6 +48,6 @@ img {
 	border-color: lightgrey;
 }
 
-a:hover {
+a:hover img {
 	border-color: gray;
 }
