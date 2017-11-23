@@ -45,4 +45,5 @@ h2 {
 img {
 	border-style: solid;
 	border-width: medium;
+	border-color: gray;
 }
