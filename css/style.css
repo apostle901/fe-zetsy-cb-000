@@ -51,3 +51,7 @@ img {
 a:hover img {
 	border-color: gray;
 }
+
+a:link {
+	text-decoration: none;
+}
