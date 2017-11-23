@@ -41,3 +41,7 @@ h2 {
 	float: right;
 	font-size: 75%;
 }
+
+img {
+	border-style: solid;
+}
