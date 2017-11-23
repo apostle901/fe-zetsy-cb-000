@@ -45,7 +45,7 @@ h2 {
 img {
 	border-style: solid;
 	border-width: thick;
-	border-color: gray;
+	border-color: lightgrey;
 }
 
 a:hover {
